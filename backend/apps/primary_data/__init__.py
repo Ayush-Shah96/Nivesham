@@ -1,0 +1,1 @@
+"""Canonical database projections used by News Alert and Regulatory Desk APIs."""

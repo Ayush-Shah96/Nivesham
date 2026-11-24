@@ -1,0 +1,69 @@
+python-dotenv>=1.0.1
+pydantic>=2.9,<3
+pydantic-settings>=2.6,<3
+
+SQLAlchemy[asyncio]>=2.0.36,<2.2
+asyncpg>=0.30
+aiosqlite>=0.20
+alembic>=1.16
+
+fastapi>=0.116,<1
+uvicorn[standard]>=0.35
+httpx>=0.28
+python-multipart>=0.0.20
+
+PyJWT>=2.10
+pwdlib[argon2]>=0.2.1
+
+redis>=5.2,<7
+
+google-genai>=1.30
+google-auth>=2.40,<3
+google-auth-oauthlib>=1.2,<2
+tenacity>=9
+
+beautifulsoup4>=4.13
+lxml>=5.3
+pypdf>=6
+openpyxl>=3.1
+
+boto3>=1.40
+
+python-telegram-bot>=22
+
+python-json-logger>=3
+prometheus-client>=0.22
+sentry-sdk>=2.40
+
+feedparser>=6.0.11
+paramiko>=3.5
+
+pytest>=8
+pytest-asyncio>=1
+pytest-cov>=6
+pydub>=0.25.1,<1
+Pillow>=11.0,<13
+playwright>=1.55,<2
+yt-dlp>=2026.10.26
+
+feedparser>=6.0,<7
+fonttools>=4.55
+PyMuPDF>=1.25,<2
+pytesseract>=0.3.13,<1
+pdfplumber>=0.11,<0.12
+tzdata>=2024.1,<2025
+# Optional public caption retrieval for strict YouTube NewsAlert verification
+youtube-transcript-api>=1.2.4,<2
+
+# Public NSE corporate-announcement Python wrapper used only as an API fallback.
+jugaad-data>=0.35.5,<1
+
+# Optional fallback connectors for Pulse constituent drill-downs.
+# Install in the backend virtual environment with:
+#   pip install -r backend/requirements-pulse-fallback.txt
+# The collector runs these libraries only when the primary NSE live endpoint fails.
+nsepython
+NseKit
+json5>=0.9.25
+
+xlrd>=2.0.1

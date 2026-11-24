@@ -1,0 +1,1473 @@
+{
+  "version": 1,
+  "source": "Coverage_List.xlsx",
+  "generated_at": "2026-10-13T03:44:59.999824+00:00",
+  "count": 113,
+  "companies": [
+    {
+      "id": "C001",
+      "company_name": "Clean Science And Technology Ltd",
+      "ticker": "CLEAN",
+      "aliases": [
+        "Clean Science And Technology"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-01",
+      "end_date": "-"
+    },
+    {
+      "id": "C002",
+      "company_name": "Blue Jet Healthcare Ltd",
+      "ticker": "BLUEJET",
+      "aliases": [
+        "Blue Jet Healthcare"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Raj",
+      "start_date": "2026-01-2",
+      "end_date": "-"
+    },
+    {
+      "id": "C003",
+      "company_name": "Neuland Laboratories Ltd",
+      "ticker": "NEULANDLAB",
+      "aliases": [
+        "Neuland Laboratories"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Raj",
+      "start_date": "2026-01-3",
+      "end_date": "-"
+    },
+    {
+      "id": "C004",
+      "company_name": "Aarti Pharmalabs Ltd",
+      "ticker": "AARTIPHARM",
+      "aliases": [
+        "Aarti Pharmalabs"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-4",
+      "end_date": "-"
+    },
+    {
+      "id": "C005",
+      "company_name": "Suprajit Engineering Ltd",
+      "ticker": "SUPRAJIT",
+      "aliases": [
+        "Suprajit Engineering"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Jainam",
+      "start_date": "2026-01-5",
+      "end_date": "-"
+    },
+    {
+      "id": "C006",
+      "company_name": "RACL Geartech Ltd",
+      "ticker": "RACLGEAR",
+      "aliases": [
+        "RACL Geartech"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Jainam",
+      "start_date": "2026-01-6",
+      "end_date": "-"
+    },
+    {
+      "id": "C007",
+      "company_name": "Goodluck India Ltd",
+      "ticker": "GOODLUCK",
+      "aliases": [
+        "Goodluck India"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Romil",
+      "start_date": "2026-01-7",
+      "end_date": "-"
+    },
+    {
+      "id": "C008",
+      "company_name": "Thirumalai Chemicals Ltd",
+      "ticker": "TIRUMALCHM",
+      "aliases": [
+        "Thirumalai Chemicals"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-8",
+      "end_date": "-"
+    },
+    {
+      "id": "C009",
+      "company_name": "Rossell Techsys Ltd",
+      "ticker": "ROSSTECH",
+      "aliases": [
+        "Rossell Techsys"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-9",
+      "end_date": "-"
+    },
+    {
+      "id": "C010",
+      "company_name": "Mangalam Organics Ltd",
+      "ticker": "MANORG",
+      "aliases": [
+        "Mangalam Organics"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Raj",
+      "start_date": "2026-01-10",
+      "end_date": "-"
+    },
+    {
+      "id": "C011",
+      "company_name": "ASM Technologies Ltd",
+      "ticker": "ASMS",
+      "aliases": [
+        "ASM Technologies"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Raj",
+      "start_date": "2026-01-11",
+      "end_date": "-"
+    },
+    {
+      "id": "C012",
+      "company_name": "Dharmaj Crop Guard Ltd",
+      "ticker": "DHARMAJ",
+      "aliases": [
+        "Dharmaj Crop Guard"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Raj",
+      "start_date": "2026-01-12",
+      "end_date": "-"
+    },
+    {
+      "id": "C013",
+      "company_name": "Entero Healthcare Solutions Ltd",
+      "ticker": "ENTERO",
+      "aliases": [
+        "Entero Healthcare Solutions"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-13",
+      "end_date": "-"
+    },
+    {
+      "id": "C014",
+      "company_name": "Waaree Energies Ltd",
+      "ticker": "WAAREEENER",
+      "aliases": [
+        "Waaree Energies"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Romil",
+      "start_date": "2026-01-14",
+      "end_date": "-"
+    },
+    {
+      "id": "C015",
+      "company_name": "Solex Energy Ltd",
+      "ticker": "SOLEX",
+      "aliases": [
+        "Solex Energy"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Romil",
+      "start_date": "2026-01-15",
+      "end_date": "-"
+    },
+    {
+      "id": "C016",
+      "company_name": "Acutaas Chemicals Ltd",
+      "ticker": "ACUTAAS",
+      "aliases": [
+        "Acutaas Chemicals"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-16",
+      "end_date": "-"
+    },
+    {
+      "id": "C017",
+      "company_name": "Websol Energy System Ltd",
+      "ticker": "WEBELSOLAR",
+      "aliases": [
+        "Websol Energy System"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Romil",
+      "start_date": "2026-01-17",
+      "end_date": "-"
+    },
+    {
+      "id": "C018",
+      "company_name": "Sambhv Steel Tubes Ltd",
+      "ticker": "SAMBHV",
+      "aliases": [
+        "Sambhv Steel Tubes"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Romil",
+      "start_date": "2026-01-18",
+      "end_date": "-"
+    },
+    {
+      "id": "C019",
+      "company_name": "Jindal Stainless Ltd",
+      "ticker": "JSL",
+      "aliases": [
+        "Jindal Stainless"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Romil",
+      "start_date": "2026-01-19",
+      "end_date": "-"
+    },
+    {
+      "id": "C020",
+      "company_name": "Hi-Tech Pipes Ltd",
+      "ticker": "HITECH",
+      "aliases": [
+        "Hi-Tech Pipes"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Romil",
+      "start_date": "2026-01-20",
+      "end_date": "-"
+    },
+    {
+      "id": "C021",
+      "company_name": "APL Apollo Tubes Ltd",
+      "ticker": "APLAPOLLO",
+      "aliases": [
+        "APL Apollo Tubes"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Romil",
+      "start_date": "2026-01-21",
+      "end_date": "-"
+    },
+    {
+      "id": "C022",
+      "company_name": "Garware Hi-Tech Films Ltd",
+      "ticker": "GRWRHITECH",
+      "aliases": [
+        "Garware Hi-Tech Films"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Romil",
+      "start_date": "2026-01-22",
+      "end_date": "-"
+    },
+    {
+      "id": "C023",
+      "company_name": "Ganesha Ecosphere Ltd",
+      "ticker": "GANECOS",
+      "aliases": [
+        "Ganesha Ecosphere"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Romil",
+      "start_date": "2026-01-23",
+      "end_date": "-"
+    },
+    {
+      "id": "C024",
+      "company_name": "PG Electroplast Ltd",
+      "ticker": "PGEL",
+      "aliases": [
+        "PG Electroplast"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Raj",
+      "start_date": "2026-01-24",
+      "end_date": "-"
+    },
+    {
+      "id": "C025",
+      "company_name": "Virtuoso Optoelectronics Ltd",
+      "ticker": "VOEPL",
+      "aliases": [
+        "Virtuoso Optoelectronics"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Raj",
+      "start_date": "2026-01-25",
+      "end_date": "-"
+    },
+    {
+      "id": "C026",
+      "company_name": "Aegis Vopak Terminals Ltd",
+      "ticker": "AEGISVOPAK",
+      "aliases": [
+        "Aegis Vopak Terminals"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Romil",
+      "start_date": "2026-01-26",
+      "end_date": "-"
+    },
+    {
+      "id": "C027",
+      "company_name": "HBL Engineering Ltd",
+      "ticker": "HBLENGINE",
+      "aliases": [
+        "HBL Engineering"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Romil",
+      "start_date": "2026-01-27",
+      "end_date": "-"
+    },
+    {
+      "id": "C028",
+      "company_name": "Creative Graphics Solutions India Ltd",
+      "ticker": "CGRAPHICS",
+      "aliases": [
+        "Creative Graphics Solutions India"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Romil",
+      "start_date": "2026-01-28",
+      "end_date": "-"
+    },
+    {
+      "id": "C029",
+      "company_name": "Pennar Industries Ltd",
+      "ticker": "PENIND",
+      "aliases": [
+        "Pennar Industries"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Romil",
+      "start_date": "2026-01-29",
+      "end_date": "-"
+    },
+    {
+      "id": "C030",
+      "company_name": "RR Kabel Ltd",
+      "ticker": "RRKABEL",
+      "aliases": [
+        "RR Kabel"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Romil",
+      "start_date": "2026-01-30",
+      "end_date": "-"
+    },
+    {
+      "id": "C031",
+      "company_name": "Technocraft Industries (India) Ltd",
+      "ticker": "TIIL",
+      "aliases": [
+        "Technocraft Industries (India)"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Romil",
+      "start_date": "2026-01-31",
+      "end_date": "-"
+    },
+    {
+      "id": "C032",
+      "company_name": "VA Tech Wabag Ltd",
+      "ticker": "WABAG",
+      "aliases": [
+        "VA Tech Wabag"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Romil",
+      "start_date": "2026-01-32",
+      "end_date": "-"
+    },
+    {
+      "id": "C033",
+      "company_name": "Interarch Building Solutions Ltd",
+      "ticker": "INTERARCH",
+      "aliases": [
+        "Interarch Building Solutions"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Romil",
+      "start_date": "2026-01-33",
+      "end_date": "-"
+    },
+    {
+      "id": "C034",
+      "company_name": "AGI Greenpac Ltd",
+      "ticker": "AGI",
+      "aliases": [
+        "AGI Greenpac"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Romil",
+      "start_date": "2026-01-34",
+      "end_date": "-"
+    },
+    {
+      "id": "C035",
+      "company_name": "Samhi Hotels Ltd",
+      "ticker": "SAMHI",
+      "aliases": [
+        "Samhi Hotels"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Aashil",
+      "start_date": "2026-01-35",
+      "end_date": "-"
+    },
+    {
+      "id": "C036",
+      "company_name": "Ujjivan Small Finance Bank Ltd",
+      "ticker": "UJJIVANSFB",
+      "aliases": [
+        "Ujjivan Small Finance Bank"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Aashil",
+      "start_date": "2026-01-36",
+      "end_date": "-"
+    },
+    {
+      "id": "C037",
+      "company_name": "Prime Cable Industries Ltd",
+      "ticker": "PRIMECAB",
+      "aliases": [
+        "Prime Cable Industries"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Romil",
+      "start_date": "2026-01-37",
+      "end_date": "-"
+    },
+    {
+      "id": "C038",
+      "company_name": "CSB Bank Ltd",
+      "ticker": "CSBBANK",
+      "aliases": [
+        "CSB Bank"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Aashil",
+      "start_date": "2026-01-38",
+      "end_date": "-"
+    },
+    {
+      "id": "C039",
+      "company_name": "Borosil Renewables Ltd",
+      "ticker": "BORORENEW",
+      "aliases": [
+        "Borosil Renewables"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Romil",
+      "start_date": "2026-01-39",
+      "end_date": "-"
+    },
+    {
+      "id": "C040",
+      "company_name": "EPACK Prefab Technologies Ltd",
+      "ticker": "EPACKPEB",
+      "aliases": [
+        "EPACK Prefab Technologies"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Romil",
+      "start_date": "2026-01-40",
+      "end_date": "-"
+    },
+    {
+      "id": "C041",
+      "company_name": "Arman Financial Services Ltd",
+      "ticker": "ARMANFIN",
+      "aliases": [
+        "Arman Financial Services"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Aashil",
+      "start_date": "2026-01-41",
+      "end_date": "-"
+    },
+    {
+      "id": "C042",
+      "company_name": "Muthoot Microfin Ltd",
+      "ticker": "MUTHOOTMF",
+      "aliases": [
+        "Muthoot Microfin"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-42",
+      "end_date": "-"
+    },
+    {
+      "id": "C043",
+      "company_name": "HDFC Bank Ltd",
+      "ticker": "HDFCBANK",
+      "aliases": [
+        "HDFC Bank"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-43",
+      "end_date": "-"
+    },
+    {
+      "id": "C044",
+      "company_name": "ICICI Bank Ltd",
+      "ticker": "ICICIBANK",
+      "aliases": [
+        "ICICI Bank"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-44",
+      "end_date": "-"
+    },
+    {
+      "id": "C045",
+      "company_name": "Kotak Mahindra Bank Ltd",
+      "ticker": "KOTAKBANK",
+      "aliases": [
+        "Kotak Mahindra Bank"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-45",
+      "end_date": "-"
+    },
+    {
+      "id": "C046",
+      "company_name": "Divi's Laboratories Ltd",
+      "ticker": "DIVISLAB",
+      "aliases": [
+        "Divi's Laboratories"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Raj",
+      "start_date": "2026-01-46",
+      "end_date": "-"
+    },
+    {
+      "id": "C047",
+      "company_name": "Laurus Labs Ltd",
+      "ticker": "LAURUSLABS",
+      "aliases": [
+        "Laurus Labs"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Raj",
+      "start_date": "2026-01-47",
+      "end_date": "-"
+    },
+    {
+      "id": "C048",
+      "company_name": "Narayana Hrudayalaya Ltd",
+      "ticker": "NH",
+      "aliases": [
+        "Narayana Hrudayalaya"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Aashil",
+      "start_date": "2026-01-48",
+      "end_date": "-"
+    },
+    {
+      "id": "C049",
+      "company_name": "Max Healthcare Institute Ltd",
+      "ticker": "MAXHEALTH",
+      "aliases": [
+        "Max Healthcare Institute"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-49",
+      "end_date": "-"
+    },
+    {
+      "id": "C050",
+      "company_name": "Apollo Hospitals Enterprise Ltd",
+      "ticker": "APOLLOHOSP",
+      "aliases": [
+        "Apollo Hospitals Enterprise"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-50",
+      "end_date": "-"
+    },
+    {
+      "id": "C051",
+      "company_name": "Healthcare Global Enterprises Ltd",
+      "ticker": "HCG",
+      "aliases": [
+        "Healthcare Global Enterprises"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-51",
+      "end_date": "-"
+    },
+    {
+      "id": "C052",
+      "company_name": "Krishna Institute of Medical Sciences Ltd",
+      "ticker": "KIMS",
+      "aliases": [
+        "Krishna Institute of Medical Sciences"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-52",
+      "end_date": "-"
+    },
+    {
+      "id": "C053",
+      "company_name": "Rainbow Children's Medicare Ltd",
+      "ticker": "RAINBOW",
+      "aliases": [
+        "Rainbow Children's Medicare"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-53",
+      "end_date": "-"
+    },
+    {
+      "id": "C054",
+      "company_name": "Fedbank Financial Services Ltd",
+      "ticker": "FEDFINA",
+      "aliases": [
+        "Fedbank Financial Services"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-54",
+      "end_date": "-"
+    },
+    {
+      "id": "C055",
+      "company_name": "Muthoot Finance Ltd",
+      "ticker": "MUTHOOTFIN",
+      "aliases": [
+        "Muthoot Finance"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-55",
+      "end_date": "-"
+    },
+    {
+      "id": "C056",
+      "company_name": "Manappuram Finance Ltd",
+      "ticker": "MANAPPURAM",
+      "aliases": [
+        "Manappuram Finance"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-56",
+      "end_date": "-"
+    },
+    {
+      "id": "C057",
+      "company_name": "Dhanuka Agritech Ltd",
+      "ticker": "DHANUKA",
+      "aliases": [
+        "Dhanuka Agritech"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Raj",
+      "start_date": "2026-01-57",
+      "end_date": "-"
+    },
+    {
+      "id": "C058",
+      "company_name": "Gravita India Ltd",
+      "ticker": "GRAVITA",
+      "aliases": [
+        "Gravita India"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Romil",
+      "start_date": "2026-01-58",
+      "end_date": "-"
+    },
+    {
+      "id": "C059",
+      "company_name": "Pondy Oxides & Chemicals Ltd",
+      "ticker": "POCL",
+      "aliases": [
+        "Pondy Oxides & Chemicals",
+        "Pondy Oxides and Chemicals"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Romil",
+      "start_date": "2026-01-59",
+      "end_date": "-"
+    },
+    {
+      "id": "C060",
+      "company_name": "Jain Resource Recycling Ltd",
+      "ticker": "JAINREC",
+      "aliases": [
+        "Jain Resource Recycling"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Romil",
+      "start_date": "2026-01-60",
+      "end_date": "-"
+    },
+    {
+      "id": "C061",
+      "company_name": "Granules India Ltd",
+      "ticker": "GRANULES",
+      "aliases": [
+        "Granules India"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Raj",
+      "start_date": "2026-01-61",
+      "end_date": "-"
+    },
+    {
+      "id": "C062",
+      "company_name": "Onesource Specialty Pharma Ltd",
+      "ticker": "ONESOURCE",
+      "aliases": [
+        "Onesource Specialty Pharma"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Raj",
+      "start_date": "2026-01-62",
+      "end_date": "-"
+    },
+    {
+      "id": "C063",
+      "company_name": "Gland Pharma Ltd",
+      "ticker": "GLAND",
+      "aliases": [
+        "Gland Pharma"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Raj",
+      "start_date": "2026-01-63",
+      "end_date": "-"
+    },
+    {
+      "id": "C064",
+      "company_name": "IG Petrochemicals Ltd",
+      "ticker": "IGPL",
+      "aliases": [
+        "IG Petrochemicals"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Raj",
+      "start_date": "2026-01-64",
+      "end_date": "-"
+    },
+    {
+      "id": "C065",
+      "company_name": "Adani Ports and Special Economic Zone Ltd",
+      "ticker": "ADANIPORTS",
+      "aliases": [
+        "Adani Ports and Special Economic Zone"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Romil",
+      "start_date": "2026-01-65",
+      "end_date": "-"
+    },
+    {
+      "id": "C066",
+      "company_name": "Premier Energies Ltd",
+      "ticker": "PREMIERENE",
+      "aliases": [
+        "Premier Energies"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Romil",
+      "start_date": "2026-01-66",
+      "end_date": "-"
+    },
+    {
+      "id": "C067",
+      "company_name": "Emmvee Photovoltaic Power Ltd",
+      "ticker": "EMMVEE",
+      "aliases": [
+        "Emmvee Photovoltaic Power"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Romil",
+      "start_date": "2026-01-67",
+      "end_date": "-"
+    },
+    {
+      "id": "C068",
+      "company_name": "Polycab India Ltd",
+      "ticker": "POLYCAB",
+      "aliases": [
+        "Polycab India"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Romil",
+      "start_date": "2026-01-68",
+      "end_date": "-"
+    },
+    {
+      "id": "C069",
+      "company_name": "Piccadily Agro Industries Ltd",
+      "ticker": "PICCADIL",
+      "aliases": [
+        "Piccadily Agro Industries"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-69",
+      "end_date": "-"
+    },
+    {
+      "id": "C070",
+      "company_name": "Allied Blenders And Distillers Ltd",
+      "ticker": "ABDL",
+      "aliases": [
+        "Allied Blenders And Distillers"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Romil",
+      "start_date": "2026-01-70",
+      "end_date": "-"
+    },
+    {
+      "id": "C071",
+      "company_name": "Radico Khaitan Ltd",
+      "ticker": "RADICO",
+      "aliases": [
+        "Radico Khaitan"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-71",
+      "end_date": "-"
+    },
+    {
+      "id": "C072",
+      "company_name": "United Spirits Ltd",
+      "ticker": "UNITDSPR",
+      "aliases": [
+        "United Spirits"
+      ],
+      "enabled": true,
+      "track": "LT",
+      "analyst": "Raj",
+      "start_date": "2026-01-72",
+      "end_date": "-"
+    },
+    {
+      "id": "C073",
+      "company_name": "Aimtron Electronics Ltd",
+      "ticker": "AIMTRON",
+      "aliases": [
+        "Aimtron Electronics"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-73",
+      "end_date": "-"
+    },
+    {
+      "id": "C074",
+      "company_name": "Jay Bee Laminations Ltd",
+      "ticker": "JAYBEE",
+      "aliases": [
+        "Jay Bee Laminations"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Romil",
+      "start_date": "2026-01-74",
+      "end_date": "-"
+    },
+    {
+      "id": "C075",
+      "company_name": "Vilas Transcore Ltd",
+      "ticker": "VILAS",
+      "aliases": [
+        "Vilas Transcore"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Romil",
+      "start_date": "2026-01-75",
+      "end_date": "-"
+    },
+    {
+      "id": "C076",
+      "company_name": "Axiscades Technologies Ltd",
+      "ticker": "AXISCADES",
+      "aliases": [
+        "Axiscades Technologies"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-76",
+      "end_date": "-"
+    },
+    {
+      "id": "C077",
+      "company_name": "Avantel Ltd",
+      "ticker": "AVANTEL",
+      "aliases": [],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-77",
+      "end_date": "-"
+    },
+    {
+      "id": "C078",
+      "company_name": "CCL Products (India) Ltd",
+      "ticker": "CCL",
+      "aliases": [
+        "CCL Products (India)"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Jainam",
+      "start_date": "2026-01-78",
+      "end_date": "-"
+    },
+    {
+      "id": "C079",
+      "company_name": "Vintage Coffee & Beverages Ltd",
+      "ticker": "VINCOFE",
+      "aliases": [
+        "Vintage Coffee & Beverages",
+        "Vintage Coffee and Beverages"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Jainam",
+      "start_date": "2026-01-79",
+      "end_date": "-"
+    },
+    {
+      "id": "C080",
+      "company_name": "Varun Beverages Ltd",
+      "ticker": "VBL",
+      "aliases": [
+        "Varun Beverages"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Jainam",
+      "start_date": "2026-01-80",
+      "end_date": "-"
+    },
+    {
+      "id": "C081",
+      "company_name": "KRN Heat Exchanger And Refrigeration Ltd",
+      "ticker": "KRN",
+      "aliases": [
+        "KRN Heat Exchanger And Refrigeration"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Raj",
+      "start_date": "2026-01-81",
+      "end_date": "-"
+    },
+    {
+      "id": "C082",
+      "company_name": "Shree Refrigerations Ltd",
+      "ticker": null,
+      "aliases": [
+        "Shree Refrigerations"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-82",
+      "end_date": "-"
+    },
+    {
+      "id": "C083",
+      "company_name": "Triveni Turbine Ltd",
+      "ticker": "TRITURBINE",
+      "aliases": [
+        "Triveni Turbine"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-83",
+      "end_date": "-"
+    },
+    {
+      "id": "C084",
+      "company_name": "Jash Engineering Ltd",
+      "ticker": "JASH",
+      "aliases": [
+        "Jash Engineering"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Romil",
+      "start_date": "2026-01-84",
+      "end_date": "-"
+    },
+    {
+      "id": "C085",
+      "company_name": "Aavas Financiers Ltd",
+      "ticker": "AAVAS",
+      "aliases": [
+        "Aavas Financiers"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-85",
+      "end_date": "-"
+    },
+    {
+      "id": "C086",
+      "company_name": "Aptus Value Housing Finance India Ltd",
+      "ticker": "APTUS",
+      "aliases": [
+        "Aptus Value Housing Finance India"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-86",
+      "end_date": "-"
+    },
+    {
+      "id": "C087",
+      "company_name": "India Shelter Finance Corporation Ltd",
+      "ticker": "INDIASHLTR",
+      "aliases": [
+        "India Shelter Finance Corporation"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-87",
+      "end_date": "-"
+    },
+    {
+      "id": "C088",
+      "company_name": "Advent Hotels International Ltd",
+      "ticker": "ADVENTHTL",
+      "aliases": [
+        "Advent Hotels International"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Aashil",
+      "start_date": "2026-01-88",
+      "end_date": "-"
+    },
+    {
+      "id": "C089",
+      "company_name": "Sansera Engineering Ltd",
+      "ticker": "SANSERA",
+      "aliases": [
+        "Sansera Engineering"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Jainam",
+      "start_date": "2026-01-89",
+      "end_date": "-"
+    },
+    {
+      "id": "C090",
+      "company_name": "SJS Enterprises Ltd",
+      "ticker": "SJS",
+      "aliases": [
+        "SJS Enterprises"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Jainam",
+      "start_date": "2026-01-90",
+      "end_date": "-"
+    },
+    {
+      "id": "C091",
+      "company_name": "Shivalik Bimetal Controls Ltd",
+      "ticker": "SHIVALIK",
+      "aliases": [
+        "Shivalik Bimetal Controls"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Jainam",
+      "start_date": "2026-01-91",
+      "end_date": "-"
+    },
+    {
+      "id": "C092",
+      "company_name": "Shriram Pistons & Rings Ltd",
+      "ticker": "SHRIPISTON",
+      "aliases": [
+        "Shriram Pistons & Rings",
+        "Shriram Pistons and Rings"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Jainam",
+      "start_date": "2026-01-92",
+      "end_date": "-"
+    },
+    {
+      "id": "C093",
+      "company_name": "Neogen Chemicals Ltd",
+      "ticker": "NEOGEN",
+      "aliases": [
+        "Neogen Chemicals"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Raj",
+      "start_date": "2026-01-93",
+      "end_date": "-"
+    },
+    {
+      "id": "C094",
+      "company_name": "Dynamatic Technologies Ltd",
+      "ticker": "DYNAMATECH",
+      "aliases": [
+        "Dynamatic Technologies"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-94",
+      "end_date": "-"
+    },
+    {
+      "id": "C095",
+      "company_name": "Raymond Ltd",
+      "ticker": "RAYMOND",
+      "aliases": [],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-95",
+      "end_date": "-"
+    },
+    {
+      "id": "C096",
+      "company_name": "Sona BLW Precision Forgings Ltd",
+      "ticker": "SONACOMS",
+      "aliases": [
+        "Sona BLW Precision Forgings"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Jainam",
+      "start_date": "2026-01-96",
+      "end_date": "-"
+    },
+    {
+      "id": "C097",
+      "company_name": "Aequs Ltd",
+      "ticker": "AEQUS",
+      "aliases": [],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-97",
+      "end_date": "-"
+    },
+    {
+      "id": "C098",
+      "company_name": "ICE Make Refrigeration Ltd",
+      "ticker": "ICEMAKE",
+      "aliases": [
+        "ICE Make Refrigeration"
+      ],
+      "enabled": true,
+      "track": "HT",
+      "analyst": "Raj",
+      "start_date": "2026-01-98",
+      "end_date": "-"
+    },
+    {
+      "id": "C099",
+      "company_name": "DEE Development Engineers Ltd",
+      "ticker": "DEEDEV",
+      "aliases": [
+        "DEE Development Engineers"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Romil",
+      "start_date": "2026-01-99",
+      "end_date": "-"
+    },
+    {
+      "id": "C100",
+      "company_name": "Centum Electronics Ltd",
+      "ticker": "CENTUM",
+      "aliases": [
+        "Centum Electronics"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Raj",
+      "start_date": "2026-01-100",
+      "end_date": "-"
+    },
+    {
+      "id": "C101",
+      "company_name": "Vinyas Innovative Technologies Ltd",
+      "ticker": "VINYAS",
+      "aliases": [
+        "Vinyas Innovative Technologies"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Raj",
+      "start_date": "2026-01-101",
+      "end_date": "-"
+    },
+    {
+      "id": "C102",
+      "company_name": "Quality Power Electrical Equipments Ltd",
+      "ticker": "QPOWER",
+      "aliases": [
+        "Quality Power Electrical Equipments"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Raj",
+      "start_date": "2026-01-102",
+      "end_date": "-"
+    },
+    {
+      "id": "C103",
+      "company_name": "Orchid Pharma Ltd",
+      "ticker": "ORCHPHARMA",
+      "aliases": [
+        "Orchid Pharma"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Raj",
+      "start_date": "2026-01-103",
+      "end_date": "-"
+    },
+    {
+      "id": "C104",
+      "company_name": "Venus Pipes & Tubes Ltd",
+      "ticker": "VENUSPIPES",
+      "aliases": [
+        "Venus Pipes & Tubes",
+        "Venus Pipes and Tubes"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Raj",
+      "start_date": "2026-01-104",
+      "end_date": "-"
+    },
+    {
+      "id": "C105",
+      "company_name": "Gujarat Fluorochemicals Ltd",
+      "ticker": "FLUOROCHEM",
+      "aliases": [
+        "Gujarat Fluorochemicals"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Raj",
+      "start_date": "2026-01-105",
+      "end_date": "-"
+    },
+    {
+      "id": "C106",
+      "company_name": "Aeroflex Industries Ltd",
+      "ticker": "AEROFLEX",
+      "aliases": [
+        "Aeroflex Industries"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Romil",
+      "start_date": "2026-01-106",
+      "end_date": "-"
+    },
+    {
+      "id": "C107",
+      "company_name": "Yasho Industries Ltd",
+      "ticker": "YASHO",
+      "aliases": [
+        "Yasho Industries"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Romil",
+      "start_date": "2026-01-107",
+      "end_date": "-"
+    },
+    {
+      "id": "C108",
+      "company_name": "Marine Electricals (India) Ltd",
+      "ticker": "MARINE",
+      "aliases": [
+        "Marine Electricals (India)"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Romil",
+      "start_date": "2026-01-108",
+      "end_date": "-"
+    },
+    {
+      "id": "C109",
+      "company_name": "Precot Ltd",
+      "ticker": "PRECOT",
+      "aliases": [],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Romil",
+      "start_date": "2026-01-109",
+      "end_date": "-"
+    },
+    {
+      "id": "C110",
+      "company_name": "Alivus Life Sciences Ltd",
+      "ticker": "ALIVUS",
+      "aliases": [
+        "Alivus Life Sciences"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Jainam",
+      "start_date": "2026-01-110",
+      "end_date": "-"
+    },
+    {
+      "id": "C111",
+      "company_name": "Vadilal Industries Ltd",
+      "ticker": "VADILALIND",
+      "aliases": [
+        "Vadilal Industries"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Jainam",
+      "start_date": "2026-01-111",
+      "end_date": "-"
+    },
+    {
+      "id": "C112",
+      "company_name": "Xpro India Ltd",
+      "ticker": "XPROINDIA",
+      "aliases": [
+        "Xpro India"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Jainam",
+      "start_date": "2026-01-112",
+      "end_date": "-"
+    },
+    {
+      "id": "C113",
+      "company_name": "All Time Plastics Ltd",
+      "ticker": "ALLTIME",
+      "aliases": [
+        "All Time Plastics"
+      ],
+      "enabled": true,
+      "track": "PO",
+      "analyst": "Jainam",
+      "start_date": "2026-01-113",
+      "end_date": "-"
+    }
+  ]
+}

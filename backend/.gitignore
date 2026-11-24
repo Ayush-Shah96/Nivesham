@@ -1,0 +1,105 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+data/
+
+snapshot-cache/
+
+
+.cache/
+
+*.json
+
+*.backend.lock
+
+*.zlib
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+/data/
+/data/**
+
+
+# Audio 
+*.mp3
+# Logs
+*.log
+logs/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+
+/debt-tracker-private/*.lock
+
+#trendlyne
+.trendlyne_browser_profile/
+*.trendlyne_storage_state.json
+
+# audio files
+*.png
+
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+.pytest_cache/
+
+# Alembic / migration artifacts
+# Keep migrations/versions/*.py tracked.
+# Ignore only generated/runtime artifacts if any.
+*.pyc
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Application-generated files
+uploads/
+downloads/
+tmp/
+temp/
+
+
+# Secrets / credentials
+*.pem
+*.key
+*.crt
+credentials.json
+service-account.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker local overrides
+docker-compose.override.yml
+
+# Vercel
+.vercel/
